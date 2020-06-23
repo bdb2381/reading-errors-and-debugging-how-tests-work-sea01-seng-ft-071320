@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = 1,000,234.1
+first_number = 1000234.1
